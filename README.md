@@ -21,6 +21,5 @@ the py files :
   simply go to the outputing.py file and run it 
   
   
-**** the simple idea behind how this bot work :
 
 
