@@ -23,5 +23,4 @@ the py files :
   
 **** the simple idea behind how this bot work :
 
-  <img width="834" alt="image" src="https://user-images.githubusercontent.com/128150121/225915681-ac842510-5383-4c62-8806-7a797e76d83d.png">
 
