@@ -14,7 +14,8 @@ the py files :
   - algorithem.py : in this file the bot takes the cleaned input and search in the database and return with the output then put it in usable form 
   
 **** notes :
-  - the database.txt file in the package contains some random jokes,data about movies,music and some explitic weird responses grabed from random datasets
+  - the database.txt file in the package contains some random jokes,data about movies,music and some 
+explicit weird responses grabed from random datasets
   - all the datasets that used is in dataset folder with py file that cleaned the data and convert it to the simple form used in database file
     
 **** quick start :
